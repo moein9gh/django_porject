@@ -1,0 +1,2 @@
+x = "mohammad"
+print(x)
